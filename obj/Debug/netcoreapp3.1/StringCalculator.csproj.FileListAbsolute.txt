@@ -1,0 +1,13 @@
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.exe
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.json
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csprojAssemblyReference.cache
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Blackwood\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
